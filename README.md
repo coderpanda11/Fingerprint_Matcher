@@ -15,6 +15,15 @@ Your compiler should also contain the opencv package.
 git clone https://github.com/coderpanda11/Fingerprint_Matcher.git
 ```
 
+## Usage
+
+```Linux
+python3 finger_print.py
+```
+```Windows
+<python.exe location> <finger_print.py location>
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
